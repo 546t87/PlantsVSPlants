@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: ae659ddba6c11d14a877209d3702c8ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7103403366798141800
+    second: TallNut_0
+  - first:
+      213: -4969657029084581719
+    second: TallNut_1
+  - first:
+      213: -7446346542892302027
+    second: TallNut_2
+  - first:
+      213: -6034579688979658337
+    second: TallNut_3
+  - first:
+      213: 951598934445064764
+    second: TallNut_4
+  - first:
+      213: -745898757643653266
+    second: TallNut_5
+  - first:
+      213: -899564526024929316
+    second: TallNut_6
+  - first:
+      213: -1476885831815154075
+    second: TallNut_7
+  - first:
+      213: -7716287843562703292
+    second: TallNut_8
+  - first:
+      213: -5730060672730480973
+    second: TallNut_9
+  - first:
+      213: -1674625206624422575
+    second: TallNut_10
+  - first:
+      213: -4746264904117951139
+    second: TallNut_11
+  - first:
+      213: -1003630926125497316
+    second: TallNut_12
+  - first:
+      213: -2842608665103949885
+    second: TallNut_13
+  - first:
+      213: 4653931536682856001
+    second: TallNut_14
+  - first:
+      213: 8241426647411723525
+    second: TallNut_15
+  - first:
+      213: 2666788071193229946
+    second: TallNut_16
+  - first:
+      213: 243755649071614712
+    second: TallNut_17
+  - first:
+      213: 2450686492099796987
+    second: TallNut_18
+  - first:
+      213: -4480740899937648040
+    second: TallNut_19
+  - first:
+      213: 2860783272213702546
+    second: TallNut_20
+  - first:
+      213: 9073304513144940957
+    second: TallNut_21
+  - first:
+      213: -5294788250011461105
+    second: TallNut_22
+  - first:
+      213: 8218913477169965945
+    second: TallNut_23
+  - first:
+      213: 1359187820487615722
+    second: TallNut_24
+  - first:
+      213: -4101433309617015737
+    second: TallNut_25
+  - first:
+      213: 347021169111623819
+    second: TallNut_26
+  - first:
+      213: 473462109903076827
+    second: TallNut_27
+  - first:
+      213: 1834160408354443500
+    second: TallNut_28
+  - first:
+      213: -1687891175979897728
+    second: TallNut_29
+  - first:
+      213: -8487005640697770751
+    second: TallNut_30
+  - first:
+      213: 341613601879013495
+    second: TallNut_31
+  - first:
+      213: -2157778880334677940
+    second: TallNut_32
+  - first:
+      213: 7450463994100831453
+    second: TallNut_33
+  - first:
+      213: -2323905294436863108
+    second: TallNut_34
+  - first:
+      213: -2327871269084604480
+    second: TallNut_35
+  - first:
+      213: -6430251298498573068
+    second: TallNut_36
+  - first:
+      213: 2699340175427666936
+    second: TallNut_37
+  - first:
+      213: 6272938277775374392
+    second: TallNut_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TallNut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896dea9f544ab6d90800000000000000
+      internalID: -7103403366798141800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f3ed234b380bb0800000000000000
+      internalID: -4969657029084581719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531427c854349a890800000000000000
+      internalID: -7446346542892302027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998495debdd04ca0800000000000000
+      internalID: -6034579688979658337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320d386032c43d00800000000000000
+      internalID: 951598934445064764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fae38280906a5f0800000000000000
+      internalID: -745898757643653266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfcdb564da1483f0800000000000000
+      internalID: -899564526024929316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566b9dc292c018be0800000000000000
+      internalID: -1476885831815154075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b7c3c61d3ae490800000000000000
+      internalID: -7716287843562703292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beb6746d2cba70b0800000000000000
+      internalID: -5730060672730480973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557c334f3982c8e0800000000000000
+      internalID: -1674625206624422575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 393
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55652c6731e12eb0800000000000000
+      internalID: -4746264904117951139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1481ba7df26212f0800000000000000
+      internalID: -1003630926125497316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1809da760d88d0800000000000000
+      internalID: -2842608665103949885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e28f43316169040800000000000000
+      internalID: 4653931536682856001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0a61fedd6f5270800000000000000
+      internalID: 8241426647411723525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab8ba1f95520520800000000000000
+      internalID: 2666788071193229946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa88eaa87ef16300800000000000000
+      internalID: 243755649071614712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd4795166920220800000000000000
+      internalID: 2450686492099796987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85207a834e531d1c0800000000000000
+      internalID: -4480740899937648040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2976daf9a3b83b720800000000000000
+      internalID: 2860783272213702546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e3fcd16adaed70800000000000000
+      internalID: 9073304513144940957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_22
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a972db3222586b0800000000000000
+      internalID: -5294788250011461105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 272
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97be26603427f0270800000000000000
+      internalID: 8218913477169965945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a3371f1eccd210800000000000000
+      internalID: 1359187820487615722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b25e9228c417c0800000000000000
+      internalID: -4101433309617015737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88607a2aedd0d400800000000000000
+      internalID: 347021169111623819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd316bc743129600800000000000000
+      internalID: 473462109903076827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05d017c2f347910800000000000000
+      internalID: 1834160408354443500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca3341be76398e0800000000000000
+      internalID: -1687891175979897728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d097bf559183a80800000000000000
+      internalID: -8487005640697770751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_31
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778b07ec2c7adb400800000000000000
+      internalID: 341613601879013495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48bfcd6a870e02e0800000000000000
+      internalID: -2157778880334677940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d734478d556760800000000000000
+      internalID: 7450463994100831453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73f0718274dfbfd0800000000000000
+      internalID: -2323905294436863108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_35
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 151
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7df531a6db1bfd0800000000000000
+      internalID: -2327871269084604480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8f70538823c6a0800000000000000
+      internalID: -6430251298498573068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 30
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f38e4c769bf57520800000000000000
+      internalID: 2699340175427666936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallNut_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 30
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83870c0d024fd0750800000000000000
+      internalID: 6272938277775374392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

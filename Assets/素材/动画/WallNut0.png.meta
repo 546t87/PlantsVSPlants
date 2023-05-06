@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 3cd438a26e50df9419259e1bace07fe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9004882210233315786
+    second: WallNut0_0
+  - first:
+      213: -5508862585896908740
+    second: WallNut0_1
+  - first:
+      213: 3484825155485085953
+    second: WallNut0_2
+  - first:
+      213: 3889143857790330113
+    second: WallNut0_3
+  - first:
+      213: 5771029974812140923
+    second: WallNut0_4
+  - first:
+      213: -8790542479260744813
+    second: WallNut0_5
+  - first:
+      213: -3755723868001448522
+    second: WallNut0_6
+  - first:
+      213: 664343468199197058
+    second: WallNut0_7
+  - first:
+      213: 6218819872851066509
+    second: WallNut0_8
+  - first:
+      213: -1822587984771903442
+    second: WallNut0_9
+  - first:
+      213: -3030130577890538408
+    second: WallNut0_10
+  - first:
+      213: -1225805014042035096
+    second: WallNut0_11
+  - first:
+      213: 4299731731674843124
+    second: WallNut0_12
+  - first:
+      213: 4598167902361400607
+    second: WallNut0_13
+  - first:
+      213: -5952613778130347073
+    second: WallNut0_14
+  - first:
+      213: -9096482653874417718
+    second: WallNut0_15
+  - first:
+      213: -8027013352607853482
+    second: WallNut0_16
+  - first:
+      213: -3109139826333132616
+    second: WallNut0_17
+  - first:
+      213: -6365424376162692279
+    second: WallNut0_18
+  - first:
+      213: 8963406888633950207
+    second: WallNut0_19
+  - first:
+      213: 592996390002668946
+    second: WallNut0_20
+  - first:
+      213: -8482133923943785386
+    second: WallNut0_21
+  - first:
+      213: 5888811651032368315
+    second: WallNut0_22
+  - first:
+      213: 5824689923606798780
+    second: WallNut0_23
+  - first:
+      213: 7022624444303279338
+    second: WallNut0_24
+  - first:
+      213: 8837551723993507064
+    second: WallNut0_25
+  - first:
+      213: -1144841598804346062
+    second: WallNut0_26
+  - first:
+      213: 8860821685063932014
+    second: WallNut0_27
+  - first:
+      213: -3168524522287554632
+    second: WallNut0_28
+  - first:
+      213: -3225356014476936179
+    second: WallNut0_29
+  - first:
+      213: 9212287803726640970
+    second: WallNut0_30
+  - first:
+      213: 2054639989915174883
+    second: WallNut0_31
+  - first:
+      213: 1137286206250105608
+    second: WallNut0_32
+  - first:
+      213: -1683463659018295536
+    second: WallNut0_33
+  - first:
+      213: -6650919537809332286
+    second: WallNut0_34
+  - first:
+      213: -1892408845509678022
+    second: WallNut0_35
+  - first:
+      213: 5468910229167305884
+    second: WallNut0_36
+  - first:
+      213: 2088871831291670119
+    second: WallNut0_37
+  - first:
+      213: -5869453487942560401
+    second: WallNut0_38
+  - first:
+      213: 3580522189154081388
+    second: WallNut0_39
+  - first:
+      213: -7119433586515698225
+    second: WallNut0_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallNut0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f03909a4c7fc70800000000000000
+      internalID: 9004882210233315786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cc235aa69c83b0800000000000000
+      internalID: -5508862585896908740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b809f3069c5030800000000000000
+      internalID: 3484825155485085953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1052cfbabb309f530800000000000000
+      internalID: 3889143857790330113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752fc49f21d61050800000000000000
+      internalID: 5771029974812140923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938eac7038b10680800000000000000
+      internalID: -8790542479260744813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd415d6a0df0ebc0800000000000000
+      internalID: -3755723868001448522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2893dde4dd8383900800000000000000
+      internalID: 664343468199197058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e7d63c9bfad4650800000000000000
+      internalID: 6218819872851066509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2096c362edd4b6e0800000000000000
+      internalID: -1822587984771903442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c09c13b40d2f5d0800000000000000
+      internalID: -3030130577890538408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb12695d01dfee0800000000000000
+      internalID: -1225805014042035096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f744ff9a37bbab30800000000000000
+      internalID: 4299731731674843124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_13
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15bad55859ffcf30800000000000000
+      internalID: 4598167902361400607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 183
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbd17d9e41146da0800000000000000
+      internalID: -5952613778130347073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf0056b83dc2c180800000000000000
+      internalID: -9096482653874417718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654dd7e72e15a9090800000000000000
+      internalID: -8027013352607853482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d4660dcd1ad4d0800000000000000
+      internalID: -3109139826333132616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d53e514879a7a0800000000000000
+      internalID: -6365424376162692279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd056331b646c70800000000000000
+      internalID: 8963406888633950207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b23b231fba3800800000000000000
+      internalID: 592996390002668946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c5a0ee228694a80800000000000000
+      internalID: -8482133923943785386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb447f01ff249b150800000000000000
+      internalID: 5888811651032368315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1616fff9475d050800000000000000
+      internalID: 5824689923606798780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae40ca189bf557160800000000000000
+      internalID: 7022624444303279338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_25
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f426c8387a45aa70800000000000000
+      internalID: 8837551723993507064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_26
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3d2ba1a4bc10f0800000000000000
+      internalID: -1144841598804346062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_27
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68505c3066f7fa70800000000000000
+      internalID: 8860821685063932014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_28
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf9fea0cb32704d0800000000000000
+      internalID: -3168524522287554632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 108
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbee22bcb3d33d0800000000000000
+      internalID: -3225356014476936179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a473acdd2fe98df70800000000000000
+      internalID: 9212287803726640970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c4345f2c838c10800000000000000
+      internalID: 2054639989915174883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b3d7b67c378cf00800000000000000
+      internalID: 1137286206250105608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176fe3b8b223a8e0800000000000000
+      internalID: -1683463659018295536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76b2f1bef23b3a0800000000000000
+      internalID: -6650919537809332286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca6917e20dcb5e0800000000000000
+      internalID: -1892408845509678022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94740eb0e875eb40800000000000000
+      internalID: 5468910229167305884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea57dfcd92dfc10800000000000000
+      internalID: 2088871831291670119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65918186238b8ea0800000000000000
+      internalID: -5869453487942560401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_39
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6adeeae5f190b130800000000000000
+      internalID: 3580522189154081388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallNut0_40
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd1fb99fd0b23d90800000000000000
+      internalID: -7119433586515698225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
